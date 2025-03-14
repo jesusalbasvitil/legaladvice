@@ -1,4 +1,4 @@
-Analizaré este contrato de encargo de venta en exclusiva para identificar posibles errores o inconsistencias con respecto al Código Civil español y la legislación aplicable.
+<!-->Analiza este contrato y busca errores en relación con el Código Civil y la legislación española relacionada con los contratos privados</-->
 
 ## Errores e inconsistencias encontrados:
 
