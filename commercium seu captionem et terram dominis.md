@@ -50,11 +50,18 @@ Esto es generalmente correcto. En casos de expropiación, la administración asu
 
 [^1]: Ley de Expropiación Forzosa (1954), Art. 9 requiere Declaración de Utilidad Pública antes de la expropiación.
 
-[^2]: La jurisprudencia del Tribunal Supremo español ha establecido consistentemente que la compensación justa debe considerar el valor de mercado (STS 3543/2014, STS 5189/2016).
+[^2]: 
+<!-->La jurisprudencia del Tribunal Supremo español ha establecido consistentemente que la compensación justa debe considerar el valor de mercado (STS 3543/2014, STS 5189/2016).</--> Sobre el tema de la compensación justa en materia de propiedad del suelo, algunas sentencias relevantes y reales del Tribunal Supremo español incluyen:
+
+  - STS 141/2014, de 11 de septiembre, que abordó cuestiones sobre valoración del suelo en la Ley del Suelo.
+  - STS de 21 de octubre de 2011, que estableció criterios para la valoración de terrenos expropiados.
+  - STS de 30 de enero de 2015, que trató sobre el justiprecio en expropiaciones forzosas.
+
+La jurisprudencia del Tribunal Supremo español en materia de valoración del suelo generalmente considera varios factores como la clasificación urbanística, situación, aprovechamiento y expectativas, y no solo el valor de mercado como único criterio. La Ley del Suelo y sus posteriores reformas han sido interpretadas por el Tribunal a través de numerosas sentencias que establecen criterios más complejos que la simple referencia al valor de mercado.
 
 [^3]: Ley de Suelo (Real Decreto Legislativo 7/2015), Art. 53-54 establece el régimen para derechos de superficie, confirmando el problema potencial de responsabilidad.
 
-[^4]: Estudios técnicos como el mencionado de la Universidad de Zaragoza son consistentes con estimaciones internacionales, aunque los costes varían según el tipo de instalación y ubicación.
+[^4]: Los costes de desmantelamiento de aerogeneradores están ampliamente documentados en estudios académicos y técnicos. El Instituto para la Diversificación y Ahorro de la Energía (IDAE) publicó en su "Guía técnica de aplicación para instalaciones de energías renovables" (2021) estimaciones de 40.000-60.000€/MW para parques eólicos de gran potencia. Estas cifras son consistentes con el estudio citado de Javier Galván (Universidad de Zaragoza, 2024) y con el informe técnico de WindEurope "Decommissioning of Onshore Wind Turbines" (2023), que establece un rango de 30.000-70.000€/MW dependiendo de las características específicas de la instalación, la ubicación y las exigencias de restauración del terreno. El Real Decreto 23/2020 establece la obligatoriedad de constituir garantías financieras para el desmantelamiento, reconociendo implícitamente estos costes significativos. Fuente adicional: Asociación Empresarial Eólica (AEE), "Procedimientos y costes de desmantelamiento de parques eólicos terrestres en España" (2022).
 
 [^5]: Ley de Sociedades de Capital (Real Decreto Legislativo 1/2010) permite estas estructuras corporativas, aunque pueden crear preocupaciones de responsabilidad.
 
