@@ -6,6 +6,172 @@
 - Falacia non sequitur Si todos los poetas son escritores y escritores son periodistas, es facil que los poetas sean periodistas
 - Falacia naturalista [Darwinianio] Egoista es ventaja
 
+<!-->Busca fuentes de reconocida solvencia y reales que respalden todas y cada una de las falacias listadas
+Falacia ad hominem (Contra la persona)
+Esta falacia consiste en atacar a la persona que presenta un argumento en lugar de refutar el argumento mismo.
+Fuentes académicas:
+
+Copi, Irving M. y Cohen, Carl (2013). "Introducción a la lógica", Editorial Limusa, México. Este texto clásico categoriza el ad hominem como una de las falacias de relevancia principales.
+Walton, Douglas (1998). "Ad Hominem Arguments", University of Alabama Press. Un análisis completo de esta falacia por un reconocido teórico de la argumentación.
+
+Falacia ad populum ("Mucha gente piensa que...")
+Se produce cuando se afirma que algo es verdadero porque muchas personas lo creen.
+Fuentes académicas:
+
+Vega Reñón, Luis (2013). "La fauna de las falacias", Editorial Trotta, Madrid. Describe detalladamente esta falacia en el contexto hispanoamericano.
+Hansen, Hans V. y Pinto, Robert C. (1995). "Fallacies: Classical and Contemporary Readings", Pennsylvania State University Press. Incluye un tratamiento específico del ad populum.
+
+Falacia del hombre de paja (Distorsionar el argumento)
+Ocurre cuando se simplifica o distorsiona la posición del oponente para atacarla más fácilmente.
+Fuentes académicas:
+
+Tindale, Christopher W. (2007). "Fallacies and Argument Appraisal", Cambridge University Press. Ofrece un análisis detallado de esta falacia.
+van Eemeren, Frans H. y Grootendorst, Rob (2003). "A Systematic Theory of Argumentation", Cambridge University Press. Teoría pragma-dialéctica que analiza esta falacia como una violación de reglas de discusión crítica.
+
+Falacia del falso dilema ("No hay más opciones")
+Consiste en reducir las opciones a solo dos alternativas cuando existen más posibilidades.
+Fuentes académicas:
+
+Weston, Anthony (2009). "Las claves de la argumentación", Editorial Ariel, Barcelona. Presenta ejemplos claros de esta falacia en el contexto de la argumentación cotidiana.
+Bordes Solanas, Montserrat (2011). "Las trampas de Circe: falacias lógicas y argumentación informal", Cátedra, Madrid. Analiza el falso dilema junto a otras falacias de falsa oposición.
+
+Falacia del jugador (Montecarlo)
+Es la creencia errónea de que eventos aleatorios pasados afectan eventos aleatorios futuros.
+Fuentes académicas:
+
+Tversky, Amos y Kahneman, Daniel (1971). "Belief in the law of small numbers". Psychological Bulletin, 76(2), 105-110. Investigación fundamental sobre este sesgo cognitivo.
+Gilovich, Thomas (1993). "How We Know What Isn't So", Free Press, Nueva York. Analiza la falacia del jugador como un error cognitivo común.
+
+Falacia non sequitur (conclusión que no se sigue de las premisas)
+Se produce cuando la conclusión no se deriva lógicamente de las premisas.
+Fuentes académicas:
+
+Ferrater Mora, José (2004). "Diccionario de Filosofía", Editorial Ariel, Barcelona. Define con precisión esta falacia en el contexto de la lógica formal.
+Hamblin, Charles L. (1970). "Fallacies", Methuen, Londres. Obra clásica que analiza las falacias de razonamiento, incluyendo el non sequitur.
+
+Falacia naturalista (derivar "debe ser" del "es")
+Consiste en derivar conclusiones prescriptivas (éticas) a partir de premisas descriptivas (factuales).
+Fuentes académicas:
+
+Moore, G.E. (1903). "Principia Ethica", Cambridge University Press. Obra original donde se acuña el término "falacia naturalista".
+Hume, David (1739). "Tratado de la naturaleza humana". Primera identificación del problema de derivar el "deber ser" del "ser".
+Sandel, Michael J. (2011). "Justicia: ¿Hacemos lo que debemos?", Debate, Barcelona. Discute la falacia naturalista en el contexto de la ética contemporánea.
+
+Todas estas fuentes son obras de reconocida solvencia académica y pueden encontrarse en bibliotecas universitarias o en editoriales académicas. Cada una proporciona análisis detallados y ejemplos de las falacias mencionadas, respaldando su existencia y relevancia en el estudio de la lógica y la argumentación.
+<!-->Sobre el documento elaborado, ampliar las definiciones de cada una de las falacias
+## Ampliación de definiciones de falacias lógicas
+### Falacia ad hominem (Contra la persona)
+La falacia ad hominem (del latín "contra el hombre") consiste en rechazar o atacar un argumento centrándose en características personales, circunstancias, o motivos de quien lo presenta, en lugar de evaluar el contenido del argumento mismo. Esta falacia desvía la atención del mérito real de la argumentación.
+Tipos principales:
+
+- Ad hominem abusivo: Ataque directo contra el carácter o cualidades personales del oponente.
+
+Ejemplo: "No deberíamos creer en su teoría económica porque es un alcohólico."
+
+
+- Ad hominem circunstancial: Cuestiona la objetividad del oponente sugiriendo que tiene un interés personal en el resultado.
+
+Ejemplo: "Por supuesto que el senador apoya esa ley; recibe donaciones de esa industria."
+
+
+- Tu quoque ("tú también"): Rechaza una crítica señalando que el crítico es culpable de lo mismo.
+
+Ejemplo: "¿Cómo puedes criticarme por mentir cuando tú también mientes?"
+
+
+
+### Falacia ad populum ("Mucha gente piensa que...")
+La falacia ad populum (del latín "dirigido a la gente" o "dirigido a la multitud") consiste en afirmar que una proposición es verdadera simplemente porque muchas personas la creen o aceptan. También conocida como "llamado a la popularidad", esta falacia equipara erróneamente la popularidad con la validez.
+Características:
+
+- Apelación a la mayoría: Sugiere que si la mayoría piensa algo, debe ser correcto.
+
+Ejemplo: "La mayoría de la gente cree en los fantasmas, así que deben existir."
+
+
+- Presión social: Utiliza el conformismo como mecanismo de persuasión.
+
+Ejemplo: "Todo el mundo está comprando estas acciones, ¿no crees que deberías hacerlo también?"
+
+
+- Bandwagon effect: Anima a adoptar creencias o comportamientos porque muchos ya lo han hecho.
+
+Ejemplo: "Millones de personas no pueden estar equivocadas sobre este medicamento."
+
+
+
+### Falacia del hombre de paja (Distorsionar el argumento)
+La falacia del hombre de paja consiste en crear una versión distorsionada, simplificada o exagerada del argumento del oponente (un "hombre de paja") para refutarla más fácilmente, dando la impresión de haber desacreditado la posición original cuando en realidad no se ha abordado adecuadamente.
+Proceso típico:
+
+Distorsión: Simplificar o exagerar el argumento original.
+Refutación: Atacar esa versión distorsionada.
+Conclusión engañosa: Afirmar que se ha refutado el argumento original.
+
+Ejemplo: "Los defensores del control de armas quieren eliminar todas las armas y dejar a los ciudadanos indefensos" (cuando en realidad solo abogan por regulaciones específicas).
+Falacia del falso dilema ("No hay más opciones")
+También conocida como falacia de falsa dicotomía o falacia del tercero excluido, consiste en presentar una situación con solo dos alternativas posibles cuando en realidad existen más opciones. Reduce artificialmente la complejidad de una cuestión a una elección binaria.
+Características:
+
+Simplificación excesiva: Reduce un problema complejo a solo dos opciones.
+Exclusión de alternativas: Ignora deliberadamente otras posibilidades.
+Polarización: Suele presentar las opciones como extremos opuestos.
+
+Ejemplo: "O apoyas la guerra total contra el terrorismo, o estás a favor de los terroristas" (ignorando múltiples posiciones intermedias y alternativas).
+Falacia del jugador (Montecarlo)
+La falacia del jugador, también conocida como "falacia de Montecarlo" por el famoso caso ocurrido en el casino de Montecarlo en 1913, consiste en creer erróneamente que eventos aleatorios pasados influyen en la probabilidad de eventos aleatorios futuros independientes. Esta falacia muestra una comprensión incorrecta de la probabilidad y la aleatoriedad.
+Manifestaciones comunes:
+
+Efecto de compensación: Creer que después de una serie de resultados de un tipo, aumenta la probabilidad de obtener un resultado diferente.
+
+Ejemplo: "La ruleta ha caído 10 veces en negro; el rojo tiene que salir pronto."
+
+
+Sesgo de racha: Creer que después de una serie de éxitos, es más probable que continúe la racha.
+
+Ejemplo: "Ha ganado las últimas cinco manos; está en racha, seguro que gana la siguiente."
+
+
+Falsa memoria selectiva: Recordar más vívidamente los patrones que parecen significativos que las secuencias realmente aleatorias.
+
+Falacia non sequitur (conclusión que no se sigue de las premisas)
+La falacia non sequitur (del latín "no se sigue") ocurre cuando se presenta una conclusión que no se deriva lógicamente de las premisas establecidas. Hay una desconexión o salto lógico entre las premisas y la conclusión, rompiendo la cadena de razonamiento.
+Tipos:
+
+Non sequitur formal: La estructura lógica es inválida.
+
+Ejemplo: "Si llueve, las calles se mojan. Las calles están mojadas, por lo tanto ha llovido." (Ignora otras posibles causas para calles mojadas).
+
+
+Non sequitur material: Las premisas, aunque formalmente correctas, son irrelevantes para la conclusión.
+
+Ejemplo: "Los gatos son mamíferos. Los mamíferos tienen pelo. Por lo tanto, el sol es una estrella." (La conclusión, aunque verdadera, no tiene relación con las premisas).
+
+
+Non sequitur conversacional: El comentario no tiene relación lógica con lo que se estaba discutiendo previamente.
+
+Falacia naturalista (derivar "debe ser" del "es")
+La falacia naturalista, identificada inicialmente por David Hume y posteriormente denominada así por G.E. Moore, consiste en derivar conclusiones prescriptivas (sobre cómo deben ser las cosas) a partir de premisas puramente descriptivas (sobre cómo son las cosas). En su forma darwiniana, intenta justificar comportamientos o sistemas sociales basándose en que son "naturales" o resultado de la evolución.
+Manifestaciones:
+
+Abismo ser/deber ser (Guillotina de Hume): Saltar ilegítimamente de afirmaciones sobre hechos a afirmaciones sobre valores.
+
+Ejemplo: "Los lobos viven en jerarquías dominantes, por lo tanto las jerarquías sociales humanas son moralmente correctas."
+
+
+Apelación a la naturaleza: Argumentar que lo que es natural es inherentemente bueno o correcto.
+
+Ejemplo: "La competencia agresiva es natural en el reino animal, por lo tanto el capitalismo sin restricciones es éticamente justificable."
+
+
+Darwinismo social: Justificar políticas sociales basándose en interpretaciones de la selección natural.
+
+Ejemplo: "El egoísmo proporciona ventajas evolutivas, por lo tanto las políticas que promueven el individualismo son moralmente superiores."
+
+
+
+Cada una de estas falacias representa un patrón específico de razonamiento defectuoso que, al ser identificado, nos permite evaluar críticamente los argumentos y mejorar nuestra capacidad de razonamiento lógico.
+----
 <!-->Analiza este contrato y busca errores en relación con el Código Civil y la legislación española relacionada con los contratos privados</-->
 
 ## Errores e inconsistencias encontrados:
