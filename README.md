@@ -1,3 +1,11 @@
+Falacia ad hominem contra la persona
+Falacia ad populum Mucha gente piensa que..
+Falacia del hombre de paja Distorsionar en propio argumento
+Falacia del falso dilema No hay más opciones
+Falacia del jugador Montecarlo 26 veces seguidas al negro
+Falacia non sequitur Si todos los poetas son escritores y escritores son periodistas, es facil que los poetas sean periodistas
+Falacia naturalista Darwinianio. Egoista es ventaja
+
 <!-->Analiza este contrato y busca errores en relación con el Código Civil y la legislación española relacionada con los contratos privados</-->
 
 ## Errores e inconsistencias encontrados:
