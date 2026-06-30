@@ -667,3 +667,50 @@ Esto es relevante porque afecta directamente a la credibilidad de las DIA favora
 | 7 PE Matarraña/Bajo Aragón (Forestalia) | Favorable (jul. 2023) | **Caducado** (confirmado CNMC, ago. 2025) | — | Mismo paraguas penal AN |
 
 Si quieres, puedo profundizar específicamente en el contenido de la providencia de imputación de Pedraz en lo que afecta a Forestalia, o rastrear si ya hay resolución de la Audiencia Nacional sobre el recurso contencioso contra la caducidad de los permisos de Albarracín.</answer2>
+
+`Search another DIAs in Aragon about projects already constructed with same caracteristics: Alondra Dupont; administrative silence; change of conditions (model, position and number of surface occuped of windfarm or photovoltaic plant)`
+
+<answer3># Versión 1 — DIAs en Aragón sobre proyectos ya construidos con el mismo patrón (Alondra de Dupont + silencio administrativo + cambio de condiciones)
+
+Resultado de la búsqueda: **no he localizado ninguna otra sentencia firme del TSJ Aragón** que combine las cuatro características exactas que pides (proyecto ya construido + presencia de alondra de Dupont + litigio por silencio administrativo + modificación posterior del modelo/posición/número/superficie). Te detallo abajo, frase por frase y con su nota a pie verificable, lo que sí he encontrado: un caso prácticamente idéntico pero aún sin sentencia (Montañés), dos parques ya construidos con el mismo patrón de especie afectada y ampliación posterior pero sin litigio de silencio administrativo localizado (El Campillo / Romerales), y la confirmación de que el propio caso Pozondón ya está construido. No voy a forzar coincidencias: marca como [Wrong] cualquier frase que consideres que no cumple realmente los cuatro criterios.
+
+---
+
+**1.** El parque "Santos de la Piedra" —el de tu primera consulta— **ya está construido**: El Tribunal Superior de Justicia de Aragón (TSJA) ha estimado íntegramente el recurso presentado por el Ayuntamiento de Pozondón y anula la prórroga de la Declaración de Impacto Ambiental del parque eólico Santos de la Piedra, que está ya construido. [¹]
+
+**2.** Como consecuencia, el propio abogado del Ayuntamiento prevé el desmantelamiento si el Supremo confirma: la consecuencia directa de este fallo judicial, si lo ratifica el Tribunal Supremo tras los recursos que se espera que se presenten, debería ser el desmantelamiento de los ocho molinos instalados, la línea de evacuación construida y la subestación instalada. [¹] *(Esto confirma que tu caso base ya es, de hecho, un ejemplo de "proyecto construido" con litigio por modificación + silencio administrativo — no es solo un proyecto en tramitación.)*
+
+**3.** Caso más parecido en su lógica jurídica, aunque sin sentencia todavía: el **PE Montañés** (Montes de Torrero, Zaragoza), promovido por Parque Eólico Montañés SL (antes Solvento) y construido por Elecnor: la sociedad Parque Eólico Montañés y la constructora Elecnor, promotoras del proyecto de instalación de una central eólica en el entorno del barranco del Montañés, en los Montes de Torrero de Zaragoza, comenzaron las obras en esa zona mientras el recurso seguía pendiente. [²]
+
+**4.** La presencia de alondra de Dupont en ese emplazamiento está documentada por las propias entidades demandantes: "había varios territorios de alondra ricotí conocida como rocín en Aragón" y "es una zona importante de invernada de milano real siendo que ambas especies se encuentran catalogadas legalmente en peligro de extinción". [²]
+
+**5.** El recurso contencioso fue admitido a trámite ya en 2021 y **sigue sin sentencia** a fecha de las últimas noticias localizadas (2025): Fue recurrido en diversas instancias y ahora está pendiente de sentencia el recurso contencioso administrativo presentado por ANSAR y apoyado por otras entidades ecologistas y vecinales. [³] — **No cumple, por tanto, el criterio de "sentencia ya dictada"**, aunque sí los de especie protegida y construcción contestada en sede judicial.
+
+**6.** Otro patrón equivalente al de "cambio de condiciones tras la construcción" (no de modelo de aerogenerador, sino de ampliación de número/superficie) es el de **PE El Campillo / El Campillo 2** (paraje Las Vales de María, Zaragoza, grupo Forestalia-Redux): El PE El Campillo 2 es la ampliación del PE El Campillo, actualmente en construcción, promovido por Energías Renovables de Redux del grupo Forestalia en el paraje Las Vales de María, en el término municipal de Zaragoza y que cuenta con resolución favorable del INAGA. [⁴]
+
+**7.** La propia administración municipal confirmó la afección a la especie en ambos expedientes: "La Unidad de Medio Natural del Ayuntamiento de Zaragoza buena conocedora en detalle de la ubicación de los territorios de rocín ya advirtió de afecciones a una especie catalogada en peligro de extinción en el caso del PE El Campillo y de nuevo lo confirma para El Campillo 2". [⁵] — Es una vía administrativa (alegaciones a licencia municipal), **no he encontrado recurso judicial por silencio administrativo** asociado a este expediente.
+
+**8.** Se cita como precedente de mortalidad ya constatada tras construcción el caso de **PE Romerales y PE Romerales 2** (La Cartuja, Zaragoza), ya operativos: los informes técnicos y los especialistas en aves esteparias reconocen las afecciones a esta especie que es especialmente vulnerable a la alteración del territorio, como ya se ha constatado en otros parques eólicos como el parque eólico Romerales y el parque eólico Romerales 2 en La Cartuja. [⁶] El Gobierno de Aragón publica además sus planes de vigilancia ambiental periódicos de ambos parques [⁷][⁸], lo que confirma que están construidos y monitorizados — pero **no he localizado litigio judicial** (ni silencio administrativo ni modificación de modelo/posición) específico para estos dos parques.
+
+**9.** A nivel de patrón sistémico en Aragón (no de sentencia individual), Teruel Existe denuncia que el riesgo de "cambio de condiciones" tras la DIA es recurrente: en el caso Sierra de Albarracín señalan "el riesgo de ampliación posterior de aereogeneradores, como ha sucedido en otras ocasiones" [⁹] como un patrón ya repetido, aunque sin identificar sentencia concreta.
+
+**10.** Sobre el propio expediente "Santos de la Piedra", el BOA confirma documentalmente que el cambio de modelo de aerogenerador (8→4, con mayor diámetro de pala) fue lo que motivó el informe negativo de 2022, exactamente el patrón que pides: es un cambio que modifica las afecciones ambientales evaluadas en la Resolución de 15 de enero de 2018 [...] en cuanto a que puede tener efectos significativos en el medio ambiente, en cuanto existe riesgo de electrocución y colisión de la avifauna y quirópteros de la zona, incrementa el efecto barrera en el territorio así como existe el riesgo de aislamiento de poblaciones de alondra ricotí, especie objetivo de conservación de la ZEPA ES0000308 "Parameras de Pozondón". [¹⁰]
+
+---
+
+## Notas a pie (enlaces verificables)
+[¹] https://www.diariodeteruel.es/teruel/pozondon-gana-una-importante-batalla-legal-contra-los-abusos-de-las-eolicas
+[²] https://arainfo.org/el-parque-eolico-de-los-montes-de-torrero-comienza-las-obras-antes-de-que-se-pronuncien-los-tribunales/
+[³] https://www.lygeum.es/tag/parque-eolico-montanes/
+[⁴] https://www.aragondigital.es/articulo/zaragoza/asociaciones-ecologistas-piden-al-ayuntamiento-de-zaragoza-que-rechace-el-parque-eolico-el-campillo-2/20230917172757845088.html
+[⁵] https://arainfo.org/asociaciones-ecologistas-solicitan-al-ayuntamiento-de-zaragoza-que-rechace-el-parque-eolico-el-campillo2/
+[⁶] https://www.aragondigital.es/articulo/zaragoza/asociaciones-ecologistas-piden-al-ayuntamiento-de-zaragoza-que-rechace-el-parque-eolico-el-campillo-2/20230917172757845088.html
+[⁷] https://www.aragon.es/-/parque-eolico-romerales-i-plan-de-vigilancia-ambiental
+[⁸] https://www.aragon.es/-/parque-eolico-romerales-ii-plan-de-vigilancia-ambiental
+[⁹] https://arainfo.org/el-ayuntamiento-de-zaragoza-pretende-aprobar-la-licencia-del-polemico-parque-eolico-de-stev/
+[¹⁰] https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VERDOC&BASE=BOLE&SEC=BUSQUEDA_AVANZADA&DOCN=007930536
+
+---
+
+## Limitación honesta de esta búsqueda
+El buscador oficial de jurisprudencia (CENDOJ/Poder Judicial) usa un motor JavaScript que no indexa en buscadores externos, así que no he podido hacer una búsqueda exhaustiva por texto completo de "alondra ricotí" + "silencio positivo" en todas las sentencias del TSJ Aragón — solo lo que recoge la prensa especializada y el BOA. Si quieres, en la siguiente iteración puedo intentar consultar directamente el buscador de CENDOJ (https://www.poderjudicial.es/search/AN/openCDocument) por número de ROJ o por las voces "INAGA" + "Decreto 129/2022" + "silencio" para rastrear si existe alguna sentencia adicional aún no recogida en prensa, en particular sobre el caso Montañés cuando se dicte, o sobre El Campillo/El Campillo 2 si alguna entidad ecologista terminó judicializándolos tras la vía administrativa.</answer3>
